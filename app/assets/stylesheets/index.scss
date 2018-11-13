@@ -2,14 +2,14 @@
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
 
- /* Style the tab */
+
 .tab {
     overflow: hidden;
     border: 1px solid #ccc;
     background-color: #f1f1f1;
 }
 
-/* Style the buttons that are used to open the tab content */
+
 .tab button {
     background-color: inherit;
     float: left;
@@ -21,7 +21,6 @@
 	font-size: 15px;
 }
 
-/* Change background color of buttons on hover */
 .tab button:hover {
     background-color: #ddd;
 }
@@ -57,12 +56,12 @@
       margin-right: 30px;  
 }
 
-/* On mouse-over, add a deeper shadow */
+
 .card:hover {
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
 }
 
-/* Add some padding inside the card container */
+
 .container {
     padding: 2px 16px;
 }
